@@ -5,19 +5,18 @@ h1 {
 	font-family: 'Sofia', cursive;
 	font-weight: bold;
 	font-size: 450%;
-	color: #0F8B8D;
+	color: #FF8966;
 }
 
 p {
 	font-family: 'Quicksand', sans-serif;
-	color: #F8F4E3;
+	color: #0F8B8D;
 	text-align: center;
 	font-size: 125%;
 }
 
 .container {
-	padding: 40px, 40px, 40px, 40px;
-	background-color: #FF8966;
+	background-color: #F4E8C1;
 }
 
 h2, h3, h4, h5, h6 {
@@ -28,6 +27,11 @@ h2, h3, h4, h5, h6 {
 }
 
 body {
-	background-color: #F4E8C1;
-	padding: 0px, 50px, 50px, 50px;
+	background: url('../apps/nine.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-top: 12%;
+    padding-bottom: 80px;
 }
