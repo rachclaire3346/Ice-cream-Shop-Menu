@@ -1,0 +1,26 @@
+{
+  "name": "ice-cream-shop",
+  "version": "1.0.0",
+  "description": "A website that holds the menu for an Ice Cream shop",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachclaire3346/Ice-cream-Shop-Menu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachclaire3346/Ice-cream-Shop-Menu/issues"
+  },
+  "homepage": "https://github.com/rachclaire3346/Ice-cream-Shop-Menu#readme",
+  "dependencies": {
+    "express": "^4.16.0"
+  }
+}
