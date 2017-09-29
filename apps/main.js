@@ -10,7 +10,7 @@ function displayFlavor () {
  displayFlavor ();
 
  function displaySeasonal (){
- 	var seasonals = ["Pumpkin Spice", "Apple Cider", "Caramel Apple", "S'mores", "Maple"]
+ 	var seasonals = ["Pumpkin Spice", "Apple Cider", "Caramel Apple", "S'mores", "Maple", "Gingerbread", "Chocolate Cranberry"]
 	var list = " ";
 	for(var i = 0; i < seasonals.length; i++){
 		list += seasonals[i] + "<br>";
