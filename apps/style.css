@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Sofia');
+
+h1 {
+	text-align: center;
+	font-family: 'Sofia', cursive;
+	font-weight: bold;
+	font-size: 450%;
+	color: #0F8B8D;
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	color: #F8F4E3;
+	text-align: center;
+	font-size: 125%;
+}
+
+.container {
+	padding: 40px, 40px, 40px, 40px;
+	background-color: #FF8966;
+}
+
+h2, h3, h4, h5, h6 {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	color: #E5446D;
+}
+
+body {
+	background-color: #F4E8C1;
+	padding: 0px, 50px, 50px, 50px;
+}
